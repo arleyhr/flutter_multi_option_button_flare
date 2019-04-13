@@ -1,6 +1,6 @@
-# multi_option_button_flare
+# Flutter Multi option button flare
 
-A new Flutter project.
+![demo](https://github.com/arleyhr/flutter_multi_option_button_flare/blob/master/demo.gif?raw=true)
 
 ## Getting Started
 
